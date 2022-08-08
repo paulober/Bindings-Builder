@@ -8,21 +8,6 @@
       "code": "1.70.0",
       "electron": "18.3.5",
       "modules": 103
-    },
-    {
-      "code": "1.59.0",
-      "electron": "13.1.7",
-      "modules": 89
-    },
-    {
-      "code": "1.57.0",
-      "electron": "12.0.4",
-      "modules": 87
-    },
-    {
-      "code": "1.54.0",
-      "electron": "11.2.2",
-      "modules": 85
     }
   ],
   "scripts": {},
