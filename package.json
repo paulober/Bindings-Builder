@@ -24,10 +24,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron-rebuild": "^2.3.5",
+    "electron-rebuild": "^3.2.9",
     "lodash": "^4.17.21",
-    "node-abi": "^2.30.0",
-    "semver": "^7.3.5",
-    "serialport": "^9.2.0"
+    "node-abi": "^3.24.0",
+    "semver": "^7.3.7",
+    "serialport": "^10.4.0"
   }
 }
