@@ -1,5 +1,16 @@
+# !! IMPORTANT !!
+This repo is a fork of [github.com/cpwood/Bindings-Builder](https://github.com/cpwood/Bindings-Builder).
+
+My changes:
+- updated the action version in this github workflow
+- changed the target url so it uses my fork of [github.com/cpwood/Pico-Go](https://github.com/cpwood/Pico-Go) as target
+- added new supported VS Code versions in packages.json
+
+(All changes can be overseved in github's commit list for this repo -> github.com/paulober/Bindings-Builder/commits?author=paulober)
+
 # Bindings-Builder
 Builds [node-serialport](https://serialport.io/) bindings for use with [Pico-Go](https://github.com/cpwood/Pico-Go).
+* now it targets [Pico-Go fork by me](https://github.com/paulober/Pico-Go)
 
 ## Overview
 
