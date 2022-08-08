@@ -33,6 +33,7 @@
     "lodash": "^4.17.21",
     "node-abi": "^3.24.0",
     "semver": "^7.3.7",
-    "serialport": "^10.4.0"
+    "serialport": "^10.4.0",
+    "@serialport/bindings-cpp": "^10.7.0",
   }
 }
