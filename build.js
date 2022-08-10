@@ -37,8 +37,8 @@ async function build(matrix, token, email) {
     let serialport = pkg.dependencies.serialport.replace("^", "");
     let codeVersions = pkg.codeVersions;
 
-    let repoFolder = path.resolve(path.join("..", "..", "Pico-Go"));
-    let git = new Git("https://github.com/paulober/Pico-Go.git", "paulober", token, repoFolder, "paulober", email);
+    let repoFolder = path.resolve(path.join("..", "..", "Pico-W-Go"));
+    let git = new Git("https://github.com/paulober/Pico-W-Go.git", "paulober", token, repoFolder, "paulober", email);
 
     await git.clone();
     await git.checkout("develop");
