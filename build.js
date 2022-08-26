@@ -23,13 +23,8 @@ let responsibilities = [
     {
         matrix: "ubuntu-latest",
         platform: "linux",
-        arch: ["x64"]
-    },
-    {
-        matrix: "pi-hosted",
-        platform: "linux",
-        arch: ["arm64"]
-    } 
+        arch: ["x64", "arm64"]
+    }
 ];
 
 async function build(matrix, token, email) {
