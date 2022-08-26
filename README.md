@@ -10,7 +10,7 @@ My changes:
 
 # Bindings-Builder
 Builds [node-serialport](https://serialport.io/) bindings for use with [Pico-Go](https://github.com/cpwood/Pico-Go).
-* now it targets [Pico-Go fork by me](https://github.com/paulober/Pico-Go)
+* now it targets [Pico-Go fork by me named Pico-W-Go](https://github.com/paulober/Pico-W-Go)
 
 ## Overview
 
